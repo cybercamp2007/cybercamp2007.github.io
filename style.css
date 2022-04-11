@@ -1,0 +1,38 @@
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: black;
+	/* background-color: #9FFF80 */
+    background-repeat: repeat;
+    background-image: url(site/bgrainbow.gif);
+}
+
+#playlist li a{
+        color: black;
+        text-decoration: none;
+		font-size:12px;
+    }
+#playlist .current-song a{
+        color: #FF5CAC;
+		font-weight: bold;
+    }
+	
+.column {
+	float: left;
+	}
+	
+.left {
+	width:25%;
+	}
+	
+.middle {
+	width:2%;
+	}
+
+.right {
+	width:73%;
+}
+
+	
+/* sparkly ice * {cursor: url(https://cur.cursors-4u.net/cursors/images1/cur8.gif), url(https://cur.cursors-4u.net/cursors/cur-3/cur221.png), auto !important;} * */
+	
+/* glitter pink * {cursor: url(https://cur.cursors-4u.net/cursors/cur-3/cur221.ani), url(https://cur.cursors-4u.net/cursors/images3/cur221.gif), url(https://cur.cursors-4u.net/cursors/cur-3/cur221.png), auto !important;} * */
